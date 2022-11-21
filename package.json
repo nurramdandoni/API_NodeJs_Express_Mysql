@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nurramdandoni/API_NodeJs_Express_Mysql/issues"
   },
-  "homepage": "https://github.com/nurramdandoni/API_NodeJs_Express_Mysql#readme"
+  "homepage": "https://github.com/nurramdandoni/API_NodeJs_Express_Mysql#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.7"
+  }
 }
