@@ -1,0 +1,20 @@
+{
+  "name": "API_NodeJs_Express_Mysql",
+  "version": "1.0.0",
+  "description": "API dengan NodeJs Express Js dan Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurramdandoni/API_NodeJs_Express_Mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurramdandoni/API_NodeJs_Express_Mysql/issues"
+  },
+  "homepage": "https://github.com/nurramdandoni/API_NodeJs_Express_Mysql#readme"
+}
